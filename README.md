@@ -1,14 +1,33 @@
 <h1 align="center">Hey there👋 call me Thae!! (or vips) 🇧🇷</h1>
 <h3 align="center">Im studying to make games! this is a place to save my ideas and some other stuff.</h3>
 
-- 🤓 I’m currently learning ***Python***, how to use ***Blender*** and a little of ***GML***
+<p align="center"><img alt="cat typing" src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif"/></p>
+<p align="center"><i>this is me going insane rn</i> 👆</p>
+
+---
+
+# A little bit about me 
+
+### 🤓 I’m currently learning
+- 🐍Python
+- ⚙️Blender
+- 🕹️GML (GameMakerLanguage)
+  
+(And i want to learn more about DB and eletronics)
 
 ### 🔜Some projects i want to do
--   🎶A music site(or app) complety FREE from Ads! the purshase in this site wont affect in any way the experience of the user while lisening to music
--   🤖Projects with Arduino, most of them are ref to Marvel Heroes and geek universe stuff (spidey masks, ironman suit, Jarvis, etc...)
+-   🎶A music site(or app) completely FREE and without Ads! Anything purchasable in this project will not affect the user experience in any way.
+-   🤖Projects with Arduino, most of them are ref to Marvel Heroes and geek universe stuff (Stark's suit, Jarvis,  etc...)
+-   🏛️At some point i also wanna do a project with Greek mythology! Something with EPIC the musical for sure haha!!
 -   🎮A game based on *The Dragon Prince*, a series from netflix
+-   🕸️The project of the Spiderman's mask WITH the spider sense in it!! (with arduino)
 
- 🕷️ALSO, im a HUGE fan of Spiderman!! *(i might became him one day and help people too!)*
+<p align="center">And talking about him...</p>
+<p align="center">🕷️Im a HUGE fan of Spiderman!! <i>(i might became him one day and help people too!)</i></p>
+<p align="center"> <img alt="spiderman" src="https://media1.tenor.com/m/ST50nqwQZzUAAAAC/spider-man-miles-morales.gif"/> </p>
+<p align="center">So u can expect a LOT of projects with the spidey guy</p>
+
+ ---
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
